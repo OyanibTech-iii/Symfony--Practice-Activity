@@ -1,3 +1,17 @@
 body {
-    background-color: skyblue;
+    font-family: Poppins;
+    background-color: rgb(247, 250, 252);
+    color: #094021;
+    font-size: 0.75rem;
+}
+h3 {
+    font-family: Poppins;
+    color: #094021;
+    font-weight: 600;
+    font-size: 1rem;
+}
+h2 {
+    font-family: Poppins;
+    color: #094021;
+    font-weight: 600;
 }

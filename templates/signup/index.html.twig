@@ -1,0 +1,21 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello SignupController!{% endblock %}
+
+{% block body %}
+<link rel="stylesheet" href="{{asset('styles/signup.css')}} ">
+
+<div class="example-wrapper">
+    <form method="post" accept-charset="UTF-8">
+         <h1>Sign in</h1>
+    <input type="hidden" name="action" value="users/signup">        
+    <h3><label for="loginName">Username or email</label></h3>
+    <input id="loginName" type="text" name="loginName">
+    <h3><label for="password">Password</label></h3>
+    <input id="password" type="password" name="password">
+    <h3><label for="confirmPassword">Confirm Password</label></h3>
+    <input id="confirmPassword" type="password" name="confirmPassword"><br>
+    <input type="submit" value="Signup" class ="Btn">
+    </form>
+</div>
+{% endblock %}
