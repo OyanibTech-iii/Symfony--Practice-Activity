@@ -1,4 +1,4 @@
-# 🌱 GROWFICO
+# GROWFICO
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [About](#-about)
 - [Mission & Vision](#-mission--vision)
@@ -30,40 +30,40 @@
 
 ---
 
-## 🌟 About
+## About
 
 GROWFICO is an innovative agricultural platform that bridges the gap between sustainable farming practices and modern technology. We provide comprehensive solutions for both novice gardeners and experienced farmers, offering everything from premium plant materials to professional landscaping services and educational programs.
 
-### 🎯 Our Mission
+### Our Mission
 
 To make sustainable agriculture accessible to everyone through our integrated online platform, offering quality planting supplies, expert landscaping services, organic fertilizers, and educational training to support both novice gardeners and experienced farmers in their journey toward environmental sustainability.
 
-### 🔮 Our Vision
+### Our Vision
 
 Envisioning a world where sustainable agriculture is within everyone's reach, we strive to be the premier online platform that transforms how people grow, learn, and connect with nature through innovative agricultural solutions.
 
 ---
 
-## 🌱 Core Services
+## Core Services
 
-### 🌳 Premium Plant Materials
+### Premium Plant Materials
 - **Marcotted Fruiting Trees** - Air-layered fruit trees for faster fruiting
 - **Grafted Trees & Plants** - Superior quality with enhanced characteristics
 - **Disease-resistant Varieties** - Improved yield and fruit quality
 
-### 🏡 Professional Landscaping Services
+### Professional Landscaping Services
 - Residential and commercial landscape design
 - Garden installation and plant placement
 - Hardscape integration and irrigation systems
 - Sustainable landscape maintenance programs
 
-### 🌿 Agricultural Inputs
+### Agricultural Inputs
 - Organic fertilizers and compost products
 - Bio-based nutrient solutions
 - Soil amendments and conditioners
 - Customized fertilizer blends
 
-### 📚 Educational Services
+### Educational Services
 - Organic farming training programs
 - Hands-on workshops and seminars
 - Certification courses
@@ -71,21 +71,21 @@ Envisioning a world where sustainable agriculture is within everyone's reach, we
 
 ---
 
-## ✨ Features
+## Features
 
-### 🖥️ Digital Platform
+### Digital Platform
 - **Modern Dashboard** - Clean, intuitive interface for managing agricultural projects
 - **User Authentication** - Secure login and registration system
 - **Responsive Design** - Works seamlessly on desktop and mobile devices
 - **Real-time Updates** - Live tracking of orders and services
 
-### 🎨 User Interface
+### User Interface
 - **Consistent Design Language** - Unified color palette and typography
 - **Accessibility Focused** - WCAG compliant design patterns
 - **Mobile-First Approach** - Optimized for all screen sizes
 - **Dark/Light Themes** - Customizable user experience
 
-### 🔧 Technical Features
+### Technical Features
 - **Symfony Framework** - Robust, scalable PHP framework
 - **Twig Templating** - Clean, maintainable template system
 - **Asset Management** - Optimized CSS and JavaScript delivery
@@ -93,7 +93,7 @@ Envisioning a world where sustainable agriculture is within everyone's reach, we
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Backend
 - **PHP 8.1+** - Modern PHP with latest features
@@ -115,7 +115,7 @@ Envisioning a world where sustainable agriculture is within everyone's reach, we
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - PHP 8.1 or higher
@@ -159,7 +159,7 @@ Envisioning a world where sustainable agriculture is within everyone's reach, we
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 growfico/
@@ -184,41 +184,41 @@ growfico/
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 🏠 Homepage
+### Homepage
 *Clean, modern landing page with clear call-to-actions*
 
-### 🔐 Authentication
+### Authentication
 *Secure login and registration with beautiful UI*
 
-### 📊 Dashboard
+### Dashboard
 *Comprehensive dashboard for managing agricultural projects*
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the community! Here's how you can help:
 
-### 🐛 Bug Reports
+### Bug Reports
 - Use the issue tracker to report bugs
 - Include detailed steps to reproduce
 - Provide system information and error logs
 
-### 💡 Feature Requests
+### Feature Requests
 - Suggest new features or improvements
 - Describe the use case and expected behavior
 - Consider the impact on existing functionality
 
-### 🔧 Development
+### Development
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-### 📋 Coding Standards
+### Coding Standards
 - Follow PSR-12 coding standards
 - Write meaningful commit messages
 - Include tests for new features
@@ -226,23 +226,23 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
-## 📞 Contact
+## Contact
 
-### 📍 Location
+### Location
 **Main Office:** Kagawasan Avenue, Dumaguete City, 6200 Negros Oriental
 
-### 📧 Contact Information
+### Contact Information
 - **Email:** [growfico@gmail.com](mailto:growfico@gmail.com)
 - **Phone:** [09458062493](tel:+639458062493)
 - **Website:** [www.growfico.ph](https://www.growfico.ph) *(coming soon)*
 
-### 🌐 Social Media
+### Social Media
 - **Facebook:** [GROWFICO_Official](https://facebook.com/GROWFICO_Official)
 - **Instagram:** [@GROWFICO_Official](https://instagram.com/GROWFICO_Official)
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -250,8 +250,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ for sustainable agriculture**
+**Made with for sustainable agriculture**
 
-*Growing together, growing green* 🌱
+*Growing together, growing green*
 
 </div>
